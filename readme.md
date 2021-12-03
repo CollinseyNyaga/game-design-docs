@@ -1,4 +1,4 @@
-# =================== Game design document  =================
+# ====  Game design document  ====
 This is my format of writing a game design document . 
 Other documents like character design docs can be included within the project documentation . 
 
